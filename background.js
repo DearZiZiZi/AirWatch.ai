@@ -7,7 +7,7 @@ chrome.runtime.onInstalled.addListener(() => {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer AIzaSyCg5P33MaA7ApX-ywfoTDvZGO3-aP-qWfk'
+        'Authorization': 'Bearer -there was Gemini AI API key-'
       }
     });
   
