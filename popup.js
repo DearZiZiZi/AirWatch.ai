@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyCg5P33MaA7ApX-ywfoTDvZGO3-aP-qWfk';
+const API_KEY = '-there was Gemini AI API key';
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 async function getWeatherRecommendation(lat, lon) {
